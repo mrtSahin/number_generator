@@ -1,6 +1,6 @@
+
+
 let box
-
-
 let primeNumbers=[]  // asal sayıları ekleeceğimiz dizimiz
 for (let i = 0; i < 100; i++) {
     let counter=true // kontolcümüz. eğer true ise asal, false ise asal değil olacak
